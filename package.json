@@ -1,0 +1,20 @@
+{
+  "name": "fillingrades",
+  "version": "1.0.0",
+  "description": "Auto fill Grades in moodle. This is a hack, not an application",
+  "main": "fillGrading.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moodle",
+    "fillin",
+    "grading",
+    "javascript"
+  ],
+  "author": "ixxra",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^1.0.5"
+  }
+}
