@@ -3,6 +3,14 @@
 
 This is a hack on moodle. It is not meant to be a full blown app, but a fast and dirty way to update my gradings.
 
+
+###Update:
+
+I think this should be a more robust way to update gradings, but not that funny ;-)
+
+[https://docs.moodle.org/28/en/Grade_import](https://docs.moodle.org/28/en/Grade_import)
+
+
 ##Usage:
 
 I use to grade my students exams by hand, and then update their qualifications marks in a master spreadsheet.
